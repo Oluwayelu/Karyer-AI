@@ -1,5 +1,3 @@
-import { Assessment } from "@prisma/client";
-
 export type Questions = {
   question: string;
   correctAnswer: string;
